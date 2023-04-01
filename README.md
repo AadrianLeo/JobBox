@@ -4,8 +4,9 @@ JobBox is am application where you can find different developer jobs. You can se
 #
 ![JobBox Screen](https://user-images.githubusercontent.com/81036521/229280459-445ad311-be3b-4d33-8fa8-6032018a9a82.png)
 
+#
 
-To access the app you will need to install [Expo Go](https://expo.dev/client) on you android or ios.
+To access the app you will need to install [Expo Go](https://expo.dev/client) on you android or ios and scan the [Expo app QR](https://expo.dev/@aadrianleo/react_native_Jobbox?serviceType=classic&distribution=expo-go)
 #
 ## Installation for developement
 
